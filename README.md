@@ -13,6 +13,6 @@ donde dice R7 vas a ver que hay dos pedacitos de contacto separados, vas a poner
 
 
 una vez hecho esto, el neopixel va a funcionnar
-solo conectalo al pc y sube el codigo :)
+solo conecta la pico al pc y sube el codigo :)
 
 
